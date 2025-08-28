@@ -19,6 +19,8 @@ The data for this project is sourced from publicly available Netflix content dat
 
 
 # Explore the Dashboard:
+Check out the [Netflix Dashboard](https://public.tableau.com/views/NETFLIXDASHBOARD_17407229277740/NETFLIXDASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for more info.
+
 Use the Tableau dashboard to explore various insights into Netflix content, including content distribution by genre, country, ratings, and release trends.
 
 # Insights
