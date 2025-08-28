@@ -1,3 +1,7 @@
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Postgresql](https://img.shields.io/badge/Postgresql-Orange?style=for-the-badge&logo=Postgresql&logoColor=white)
+
+
 # Project Overview
 This project focuses on visualizing and analyzing Netflix content using an interactive dashboard built with Tableau. It provides key insights into content distribution, viewership patterns, and user preferences across various regions, genres, and ratings. By leveraging data visualizations, the project helps identify trends in Netflix content that can assist in content strategy and improve engagement metrics.
 
